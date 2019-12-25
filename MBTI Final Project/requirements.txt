@@ -1,0 +1,10 @@
+pandas
+nltk
+scipy
+sklearn
+afinn
+wordcloud
+matplotlib
+scipy
+regex
+numpy
